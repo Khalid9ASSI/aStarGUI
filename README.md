@@ -22,3 +22,11 @@ How does it work?
 
 
 ![image](https://user-images.githubusercontent.com/45602636/119244947-4053df80-bb6d-11eb-83a3-1785ed81fa92.png)
+
+
+
+This work is done in collaboration with: 
+github.com/AdnaneBenazzou
+@Achraf AGELMOUS
+@Hajar LACHEB
+@Jamila REGUIG
