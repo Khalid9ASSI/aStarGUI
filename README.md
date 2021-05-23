@@ -15,9 +15,10 @@ How does it work?
  
           3: Enter the start and end vertex in their locations
  
-
-![image](https://user-images.githubusercontent.com/45602636/119244947-4053df80-bb6d-11eb-83a3-1785ed81fa92.png)
+ 
+![image](https://user-images.githubusercontent.com/45602636/119244943-3500b400-bb6d-11eb-96b4-fabbe42aeed5.png)
 
           4: Click on Result
 
-![image](https://user-images.githubusercontent.com/45602636/119244943-3500b400-bb6d-11eb-96b4-fabbe42aeed5.png)
+
+![image](https://user-images.githubusercontent.com/45602636/119244947-4053df80-bb6d-11eb-83a3-1785ed81fa92.png)
