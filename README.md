@@ -25,8 +25,4 @@ How does it work?
 
 
 
-This work is done in collaboration with: 
-github.com/AdnaneBenazzou
-@Achraf AGELMOUS
-@Hajar LACHEB
-@Jamila REGUIG
+
